@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662673440681",
+    "firebase_url": "https://touringmusician-3f404.firebaseio.com",
+    "project_id": "touringmusician-3f404",
+    "storage_bucket": "touringmusician-3f404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662673440681:android:c5788b09e96b478e",
+        "android_client_info": {
+          "package_name": "com.google.engedu.touringmusician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662673440681-fiqt8eg9ja6p8vo86nns33gjtf1i0ps6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsC00-cdq1-v3PGJzi2yinC-mI1xKTRrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662673440681-fiqt8eg9ja6p8vo86nns33gjtf1i0ps6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
